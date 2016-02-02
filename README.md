@@ -6,7 +6,7 @@ This control is an expandable ListView for the universal windows platform. It's 
   - Copy the content from `ExpanderControl` to your project
   - Reference the XAML Namespace
 ```xml
-<Page xmlns:expander="using:Toby.Views.Controls.ExpaControl">
+<Page xmlns:expander="using:Project.Views.Controls.ExpaControl">
 ```
   - Setup `ExpanderControl`
   
