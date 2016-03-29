@@ -7,7 +7,7 @@
     <ProjectGuid>{59CE0CB4-401C-4270-9485-277B19FF5A08}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>UWP_Expander</RootNamespace>
+    <RootNamespace>Project.Views.Controls.ExpaControl</RootNamespace>
     <AssemblyName>UWP_Expander</AssemblyName>
     <DefaultLanguage>en-US</DefaultLanguage>
     <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
