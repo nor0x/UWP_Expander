@@ -3,7 +3,7 @@
 This control is an expandable ListView for the universal windows platform. It's a ported version of the expander for WPF which is not working properly on UWP. The repository is referenced here on [StackOverflow].
 
 ### Usage
-  - Copy the content from `ExpanderControl` to your project
+  - Add the project `UWP_Expander` (located in the folder ExpanderControl) to your solution and reference `UWP_Expander` from your project
   - Reference the XAML Namespace
 ```xml
 <Page xmlns:expander="using:Project.Views.Controls.ExpaControl">
